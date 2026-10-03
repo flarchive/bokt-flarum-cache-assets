@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of bokt/flarum-cache-assets.** Not for installation: use [Packagist](https://packagist.org/packages/bokt/flarum-cache-assets) or the [upstream repository](https://github.com/Bokt/flarum-cache-assets).
 
-**0** versions archived · Latest: [`0.5`](https://github.com/flarchive/bokt-flarum-cache-assets/tree/archive/v0.5) · License: `MIT` · Flarum: `^1.0.0`
+**5** versions archived · Latest: [`0.5`](https://github.com/flarchive/bokt-flarum-cache-assets/tree/archive/v0.5) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1` | 2020-04-01 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/bokt-flarum-cache-assets/tree/archive/v0.1) |
+| `0.2` | 2020-04-01 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/bokt-flarum-cache-assets/tree/archive/v0.2) |
+| `0.3` | 2020-12-30 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/bokt-flarum-cache-assets/tree/archive/v0.3) |
+| `0.4` | 2021-02-10 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/bokt-flarum-cache-assets/tree/archive/v0.4) |
+| `0.5` | 2021-06-04 | `^1.0.0` | [Browse](https://github.com/flarchive/bokt-flarum-cache-assets/tree/archive/v0.5) |
 
 Catalog entry: [packages/bokt-flarum-cache-assets.json](https://github.com/flarchive/archive-index/blob/main/packages/bokt-flarum-cache-assets.json)
 
